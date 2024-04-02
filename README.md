@@ -32,7 +32,6 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 Web Developer from <b>Indonesian</b> 」
     <br>
   </samp>
