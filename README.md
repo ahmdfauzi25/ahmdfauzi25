@@ -35,7 +35,6 @@
     <br>
     「 Web Developer from <b>Indonesian</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
