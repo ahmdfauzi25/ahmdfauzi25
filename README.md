@@ -88,7 +88,6 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=Fastify&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=tRPC&logoColor=white)
 
 #### Databases
 
