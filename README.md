@@ -73,7 +73,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF3E00?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
-![Quasar.js](https://img.shields.io/badge/Quasar.js-000000?style=for-the-badge&logo=Quasar.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-98c682?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=UnoCSS&logoColor=white)
